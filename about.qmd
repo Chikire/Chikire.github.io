@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Hi, this is Chikire Aku-Ibe. Welcome to my professional website showcasing my experiences and projects. 
+<p> Hi! I am a data science graduate student at the University of British Columbia, Canada.</p>
