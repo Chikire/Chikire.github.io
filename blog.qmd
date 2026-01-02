@@ -1,0 +1,83 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+---
+
+::: {.blog-header}
+# Coming Soon! 🚀
+
+I'm currently building out my blog where I'll share insights, tutorials, and thoughts on data science, machine learning, and technology. Stay tuned for exciting content!
+:::
+
+---
+
+## Topics I'll Write About
+
+Based on my experience and interests, here are the areas I'll be covering:
+
+::: {.topics-grid}
+::: {.topic-tag}
+🐍 Python & R Programming
+:::
+
+::: {.topic-tag}
+🤖 Machine Learning
+:::
+
+::: {.topic-tag}
+📊 Data Analysis & Visualization
+:::
+
+::: {.topic-tag}
+📈 Statistical Inference
+:::
+
+::: {.topic-tag}
+🔍 Feature Engineering
+:::
+
+::: {.topic-tag}
+🐳 Docker & Containerization
+:::
+
+::: {.topic-tag}
+💾 SQL & Data Pipelines
+:::
+
+::: {.topic-tag}
+☁️ Cloud Platforms (Azure)
+:::
+
+::: {.topic-tag}
+📉 Model Evaluation
+:::
+
+::: {.topic-tag}
+🎨 Data Storytelling
+:::
+
+::: {.topic-tag}
+🔧 MLOps & Workflows
+:::
+
+::: {.topic-tag}
+📚 Best Practices
+:::
+:::
+
+---
+
+::: {.subscribe-section}
+## Stay Updated
+
+Want to get notified when I start publishing? Connect with me on [LinkedIn](https://www.linkedin.com/in/chikire-aku-ibe/) or follow my [GitHub](https://github.com/chikire) to stay in the loop!
+
+Feel free to reach out at [chikireakuibe@gmail.com](mailto:chikireakuibe@gmail.com) if you'd like to discuss data science topics or potential collaborations.
+:::

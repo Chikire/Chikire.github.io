@@ -1,7 +1,147 @@
 ---
-title: "Chikire's Professional Website"
+title: ""
+page-layout: full
 ---
 
-<p> Hi! I am Chikire Aku-Ibe, a data science graduate student at the University of British Columbia Canada. </p>
+<style>
+/* Ensure buttons are clickable */
+.hero-buttons {
+  position: relative;
+  z-index: 10;
+  margin-top: 2rem;
+}
 
-<p> To learn more about my background, please check out my about me page. </p>
+.hero-buttons .btn {
+  pointer-events: auto;
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
+}
+
+/* Fix hero banner layout */
+.hero-banner {
+  position: relative;
+  z-index: 1;
+}
+
+.hero-image {
+  pointer-events: none;
+}
+
+/* Ensure all interactive elements are clickable */
+a {
+  pointer-events: auto;
+  cursor: pointer;
+}
+</style>
+
+::: {.hero-banner}
+# Chikire Aku-Ibe {.hero-title}
+
+## Data Scientist | 2025 Mastercard Foundation Scholar {.hero-subtitle}
+
+![Data Science & AI](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&auto=format&fit=crop&q=80){.hero-image}
+
+::: {.hero-text}
+Applied data scientist with experience in operational analytics, machine learning, and cross-functional team management in telecom and tech. Master's student at UBC specializing in statistical inference, data visualization, and building production-ready ML workflows.
+
+:::
+:::
+
+::: {.hero-buttons}
+[View Projects](projects.qmd){.btn .btn-primary .btn-lg role="button"}
+[Contact Me](mailto:chikireakuibe@gmail.com){.btn .btn-outline-primary .btn-lg role="button"}
+:::
+
+---
+
+## Featured Projects {.section-title}
+
+::: {.project-grid}
+::: {.project-card}
+### ✈️ Airline Ticket Price Prediction
+ML project predicting airline ticket prices with end-to-end workflow from data cleaning to Docker deployment. Reduced data inconsistencies by 30% through validation.
+
+**Tech:** Python, pandas, NumPy, Altair, Docker
+
+[View Project →](projects.qmd#airline)
+:::
+
+::: {.project-card}
+### 🏦 Term Deposit Classification
+Predictive model for bank marketing campaigns analyzing 4,000 customer records. Delivered Quarto report with strategies to improve response rates by 10%.
+
+**Tech:** Python, Quarto, statistical analysis
+
+[View Project →](projects.qmd#term-deposit)
+:::
+
+::: {.project-card}
+### 🔐 IoT Theft Detection System
+Designed and developed IoT-based security system using Raspberry Pi for real-time theft detection and alerts.
+
+**Tech:** Raspberry Pi, IoT, Python
+
+[View Project →](projects.qmd#iot)
+:::
+:::
+
+---
+
+## Technical Skills {.section-title}
+
+::: {.skills-container}
+::: {.skill-category}
+**Languages & Tools**  
+Python • R • SQL • Git • Docker • Azure
+:::
+
+::: {.skill-category}
+**Machine Learning**  
+scikit-learn • ML Pipelines • Model Deployment
+:::
+
+::: {.skill-category}
+**Data Analysis**  
+Pandas • NumPy • Statistical Analysis • Excel
+:::
+
+::: {.skill-category}
+**Visualization & Reporting**  
+Altair • Quarto • Matplotlib • Seaborn
+:::
+:::
+
+---
+
+## Latest Blog Posts {.section-title}
+
+::: {.blog-preview}
+::: {.blog-card}
+**Data Science in Telecommunications**  
+*Coming Soon*
+
+Insights from working on AI-enabled customer service initiatives and operational analytics in the telecom industry.
+
+[Read More →](blog.qmd)
+:::
+
+::: {.blog-card}
+**Reproducible ML Workflows with Docker**  
+*Coming Soon*
+
+Best practices for deploying and maintaining machine learning models in production.
+
+[Read More →](blog.qmd)
+:::
+:::
+
+---
+
+::: {.cta-section}
+## Let's Connect! {.text-center}
+
+I'm always interested in collaborating on data science projects and discussing new opportunities.
+
+[Get in Touch](mailto:chikireakuibe@gmail.com){.btn .btn-primary .btn-lg role="button"}
+:::

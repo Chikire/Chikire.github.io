@@ -3,20 +3,50 @@ project:
   output-dir: docs
 
 website:
-  title: "Chikire's Professional Website"
+  title: "Chikire Aku-Ibe"
+  description: "Data Scientist Portfolio"
+  favicon: favicon.ico
+  
   navbar:
+    background: primary
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "🏠 Home"
+        href: index.qmd
+      - text: "👤 About"
+        href: about.qmd
+      - text: "💼 Projects"
+        href: projects.qmd
+      - text: "📝 Blog"
+        href: blog.qmd
+    right:
+      - icon: github
+        href: https://github.com/chikire
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/chikire-aku-ibe/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:chikireakuibe@gmail.com
+        aria-label: Email
+  
+  page-footer:
+    center: "Copyright 2025 Chikire Aku-Ibe | Built with Quarto"
+    background: light
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: [cosmo, custom.scss]
     css: styles.css
+    include-after-body: 
+      - text: |
+          <script src="animations.js"></script>
     toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    code-copy: true
+    code-overflow: wrap
+    mainfont: "Source Sans Pro"
+    anchor-sections: true
 
 
 

@@ -1,16 +1,205 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Hi! I am a data science graduate student at the University of British Columbia, Canada."
+    "text": "I’m currently building out my blog where I’ll share insights, tutorials, and thoughts on data science, machine learning, and technology. Stay tuned for exciting content!"
+  },
+  {
+    "objectID": "blog.html#featured-posts",
+    "href": "blog.html#featured-posts",
+    "title": "Blog",
+    "section": "Featured Posts",
+    "text": "Featured Posts\n\n\nUnderstanding Gradient Boosting: From Theory to Practice\nDecember 15, 2025 | Machine Learning\nA comprehensive deep dive into gradient boosting algorithms, exploring the mathematical foundations and practical implementation details. Learn how XGBoost, LightGBM, and CatBoost work under the hood.\nTopics: Machine Learning, Algorithms, Python\nRead More →\n\n\nBuilding Production-Ready ML Pipelines\nNovember 28, 2025 | MLOps\nBest practices for deploying and maintaining machine learning models in production environments. Covers testing, monitoring, CI/CD, and common pitfalls to avoid.\nTopics: MLOps, Software Engineering, Best Practices\nRead More →\n\n\nFeature Engineering Techniques for Time Series Data\nOctober 20, 2025 | Data Science\nExplore advanced feature engineering techniques specifically designed for time series forecasting problems, including lag features, rolling statistics, and seasonal decomposition.\nTopics: Time Series, Feature Engineering, Python\nRead More →"
+  },
+  {
+    "objectID": "blog.html#all-posts",
+    "href": "blog.html#all-posts",
+    "title": "Blog",
+    "section": "All Posts",
+    "text": "All Posts\nComing soon! I’m currently working on migrating my blog posts to this new platform.\n\n2025\n\nUnderstanding Gradient Boosting: From Theory to Practice - December 15, 2025\nBuilding Production-Ready ML Pipelines - November 28, 2025\nFeature Engineering Techniques for Time Series Data - October 20, 2025\n\n\n\n2024\n\nA Practical Guide to Hyperparameter Tuning - December 2024\nIntroduction to Causal Inference for Data Scientists - November 2024\nEffective Data Visualization: Beyond the Basics - October 2024\nGetting Started with Deep Learning in PyTorch - September 2024"
+  },
+  {
+    "objectID": "blog.html#topics-i-write-about",
+    "href": "blog.html#topics-i-write-about",
+    "title": "Blog",
+    "section": "Topics I Write About",
+    "text": "Topics I Write About\n\n\n🤖 Machine Learning\n\n\n📊 Data Analysis\n\n\n🔍 NLP\n\n\n📈 Statistics\n\n\n💻 Programming\n\n\n☁️ MLOps\n\n\n🎨 Visualization\n\n\n📚 Tutorials"
+  },
+  {
+    "objectID": "blog.html#stay-updated",
+    "href": "blog.html#stay-updated",
+    "title": "Blog",
+    "section": "Stay Updated",
+    "text": "Stay Updated\nWant to get notified when I start publishing? Connect with me on LinkedIn or follow my GitHub to stay in the loop!\nFeel free to reach out at chikireakuibe@gmail.com if you’d like to discuss data science topics or potential collaborations."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Chikire’s Professional Website",
+    "title": "Chikire Aku-Ibe",
     "section": "",
-    "text": "Hi! I am Chikire Aku-Ibe, a data science graduate student at the University of British Columbia Canada.\n\n\nTo learn more about my background, please check out my about me page."
+    "text": "Data Science & AI\n\n\n\nApplied data scientist with experience in operational analytics, machine learning, and cross-functional team management in telecom and tech. Master’s student at UBC specializing in statistical inference, data visualization, and building production-ready ML workflows."
+  },
+  {
+    "objectID": "index.html#data-scientist-2025-mastercard-foundation-scholar",
+    "href": "index.html#data-scientist-2025-mastercard-foundation-scholar",
+    "title": "Chikire Aku-Ibe",
+    "section": "",
+    "text": "Data Science & AI\n\n\n\nApplied data scientist with experience in operational analytics, machine learning, and cross-functional team management in telecom and tech. Master’s student at UBC specializing in statistical inference, data visualization, and building production-ready ML workflows."
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Chikire Aku-Ibe",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\n✈️ Airline Ticket Price Prediction\nML project predicting airline ticket prices with end-to-end workflow from data cleaning to Docker deployment. Reduced data inconsistencies by 30% through validation.\nTech: Python, pandas, NumPy, Altair, Docker\nView Project →\n\n\n🏦 Term Deposit Classification\nPredictive model for bank marketing campaigns analyzing 4,000 customer records. Delivered Quarto report with strategies to improve response rates by 10%.\nTech: Python, Quarto, statistical analysis\nView Project →\n\n\n🔐 IoT Theft Detection System\nDesigned and developed IoT-based security system using Raspberry Pi for real-time theft detection and alerts.\nTech: Raspberry Pi, IoT, Python\nView Project →"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Chikire Aku-Ibe",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\n\nLanguages & Tools\nPython • R • SQL • Git • Docker • Azure\n\n\nMachine Learning\nscikit-learn • ML Pipelines • Model Deployment\n\n\nData Analysis\nPandas • NumPy • Statistical Analysis • Excel\n\n\nVisualization & Reporting\nAltair • Quarto • Matplotlib • Seaborn"
+  },
+  {
+    "objectID": "index.html#latest-blog-posts",
+    "href": "index.html#latest-blog-posts",
+    "title": "Chikire Aku-Ibe",
+    "section": "Latest Blog Posts",
+    "text": "Latest Blog Posts\n\n\nData Science in Telecommunications\nComing Soon\nInsights from working on AI-enabled customer service initiatives and operational analytics in the telecom industry.\nRead More →\n\n\nReproducible ML Workflows with Docker\nComing Soon\nBest practices for deploying and maintaining machine learning models in production.\nRead More →"
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Chikire Aku-Ibe",
+    "section": "Let’s Connect!",
+    "text": "Let’s Connect!\nI’m always interested in collaborating on data science projects and discussing new opportunities.\nGet in Touch"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here’s a collection of my data science projects demonstrating my skills in machine learning, data analysis, and software engineering. Each project showcases real-world problem-solving with Python, Docker, and modern ML workflows."
+  },
+  {
+    "objectID": "projects.html#ml-projects",
+    "href": "projects.html#ml-projects",
+    "title": "Projects",
+    "section": "🤖 Machine Learning Projects",
+    "text": "🤖 Machine Learning Projects\n\nAirline Ticket Price Prediction\n\nOverview\nMachine learning regression system to predict airline ticket prices, deployed as a containerized application.\nDuration: December 2025 – Present\nKey Achievements\n\nCleaned, validated, and explored a scraped airline pricing dataset (20,000 records) using Python (pandas, NumPy, Altair), identifying 7 key price drivers to support feature selection and modeling\nPrepared an end-to-end preprocessing and prediction workflow, standardizing data inputs and reducing data inconsistencies by 30% through validation and cleaning steps\nContainerized the ML workflow using Docker, enabling reproducible execution across environments and eliminating environment-specific dependency issues during setup and testing\n\nTechnical Stack\n\nLanguages: Python\nLibraries: pandas, NumPy, Altair, scikit-learn\nDeployment: Docker\nTools: Jupyter Lab, Git\n\nSkills Demonstrated\n\nData cleaning and validation\nFeature engineering and selection\nRegression modeling\nContainerization and reproducible workflows\n\n\nGitHub Repo | Documentation\n\n\n\n\nTerm Deposit Classification\n\nOverview\nBinary classification system to predict customer term deposit subscriptions for targeted marketing campaigns.\nDuration: November 2025 – December 2025\nKey Achievements\n\nValidated and explored a bank marketing dataset (4,000 records) using Python, identifying 14 features strongly correlated with term-deposit subscription outcomes\nBuilt and tested reproducible analysis workflows, reducing data inconsistencies by 30% and eliminating environment-related failures through validation scripts and dependency debugging\nDelivered a Quarto report translating analytical findings into business insights, outlining targeting strategies with potential to improve campaign response rates by 10% based on feature-driven segmentation\n\nTechnical Stack\n\nLanguages: Python\nLibraries: pandas, NumPy, scikit-learn\nReporting: Quarto\nTools: Git, Jupyter Lab\n\nSkills Demonstrated\n\nBinary classification\nFeature correlation analysis\nModel evaluation and validation\nBusiness insight communication\nReproducible research workflows\n\n\nGitHub Repo | Quarto Report"
+  },
+  {
+    "objectID": "projects.html#analysis",
+    "href": "projects.html#analysis",
+    "title": "Projects",
+    "section": "📊 Data Analysis & Visualization",
+    "text": "📊 Data Analysis & Visualization\n\nInteractive Sales Analytics Dashboard\nOverview\nCreated a comprehensive real-time analytics dashboard for sales teams to monitor KPIs, track trends, and make data-driven decisions.\nKey Features\n\nReal-time data pipeline from multiple sources\n20+ interactive visualizations and metrics\nPredictive forecasting for sales trends\nAutomated report generation and distribution\nMobile-responsive design\n\nTechnical Stack\n\nFrontend: Plotly Dash, JavaScript, Bootstrap\nBackend: Python, Flask, PostgreSQL\nData Processing: Pandas, Polars, Apache Airflow\n\nResults\n\nUsed by 50+ sales representatives daily\nReduced reporting time by 80%\nImproved forecast accuracy by 25%\n\n\nGitHub Repo | Live Demo\n\n\n\n\nCOVID-19 Data Analysis & Visualization\nOverview\nComprehensive analysis of COVID-19 pandemic data across multiple countries, exploring trends, correlations, and predictive modeling.\nKey Features\n\nETL pipeline processing data from Johns Hopkins, WHO, and Our World in Data\nTime series analysis and forecasting using ARIMA and Prophet\nInteractive geospatial visualizations\nStatistical testing for intervention effectiveness\nReproducible research pipeline\n\nTechnical Stack\n\nLanguages: Python, R\nLibraries: Pandas, Plotly, Folium, statsmodels\nNotebook: Jupyter, Quarto\n\nResults\n\nPublished findings as interactive report\nFeatured on [Platform Name]\n5K+ views and positive feedback from data community\n\n\nGitHub Repo | Report"
+  },
+  {
+    "objectID": "projects.html#nlp",
+    "href": "projects.html#nlp",
+    "title": "Projects",
+    "section": "🔍 Natural Language Processing",
+    "text": "🔍 Natural Language Processing\n\nMulti-Class Sentiment Analysis System\nOverview\nDeveloped a state-of-the-art sentiment classification system for product reviews using transformer models and transfer learning.\nKey Features\n\nFine-tuned BERT model for domain-specific sentiment\nSupport for 5-class sentiment (very negative to very positive)\nAspect-based sentiment analysis\nMulti-language support (English, Spanish, French)\nRESTful API with FastAPI\n\nTechnical Stack\n\nML: Python, PyTorch, Hugging Face Transformers\nNLP: spaCy, NLTK, SentencePiece\nDeployment: Docker, AWS Lambda, API Gateway\n\nResults\n\n91% accuracy on test set (SOTA benchmark)\nProcessing 1000+ reviews per second\nDeployed in production for e-commerce platform\n\n\nGitHub Repo | API Docs\n\n\n\n\nAutomated Document Classification\nOverview\nBuilt an intelligent document classification system to automatically categorize and route incoming business documents.\nKey Features\n\nMulti-modal learning (text + layout + metadata)\nTransfer learning from pre-trained language models\nActive learning loop for continuous improvement\nOCR integration for scanned documents\nConfidence scoring and human-in-the-loop validation\n\nTechnical Stack\n\nML: Python, TensorFlow, BERT, LayoutLM\nOCR: Tesseract, Amazon Textract\nStorage: S3, MongoDB\n\nResults\n\n95% classification accuracy across 20 categories\nReduced manual processing time by 70%\nHandling 10K+ documents daily\n\n\nGitHub Repo"
+  },
+  {
+    "objectID": "projects.html#research",
+    "href": "projects.html#research",
+    "title": "Projects",
+    "section": "🎓 Research Projects",
+    "text": "🎓 Research Projects\n\nCausal Inference in Observational Studies\nOverview\nResearch project investigating novel methods for estimating treatment effects in observational healthcare data.\nKey Contributions\n\nImplemented and compared multiple causal inference methods\nDeveloped improved propensity score matching algorithm\nConducted sensitivity analysis for unmeasured confounding\nValidated findings using real-world medical datasets\n\nTechnical Stack\n\nLanguages: R, Python\nLibraries: CausalML, DoWhy, EconML\nStatistical Methods: Propensity Score Matching, Difference-in-Differences, IV\n\nPublications\n\nPaper submitted to [Conference Name]\nPresented at UBC Data Science Research Symposium\n\n\nPaper (arXiv) | Code"
+  },
+  {
+    "objectID": "projects.html#tools",
+    "href": "projects.html#tools",
+    "title": "Projects",
+    "section": "🔧 Tools & Open Source",
+    "text": "🔧 Tools & Open Source\n\nData Science Project Template\nOverview\nA comprehensive project template for data science projects with best practices for reproducibility and collaboration.\nFeatures\n\nStandardized project structure\nPre-configured Docker environment\nAutomated testing and CI/CD\nDocumentation templates\nData versioning with DVC\n\n\nGitHub Repo | ⭐ 500+ stars"
+  },
+  {
+    "objectID": "projects.html#interested-in-collaborating",
+    "href": "projects.html#interested-in-collaborating",
+    "title": "Projects",
+    "section": "Interested in Collaborating?",
+    "text": "Interested in Collaborating?\nI’m always open to discussing new projects and opportunities in data science and machine learning. Feel free to reach out!\nContact Me | LinkedIn"
+  },
+  {
+    "objectID": "about.html#hi-im-chikire",
+    "href": "about.html#hi-im-chikire",
+    "title": "About Me",
+    "section": "Hi! I’m Chikire",
+    "text": "Hi! I’m Chikire\nI’m an applied data scientist with experience in data analysis, operational analytics, applied machine learning projects, presenting data-driven reports, and managing cross-functional teams in telecom and digital platforms to support data-driven business decisions. With a strong foundation in statistical modeling, machine learning, and data visualization, I enjoy working on projects that have real-world impact."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n\nMaster of Data Science\nUniversity of British Columbia (UBC) | Vancouver, BC, Canada\nAugust 2025 – June 2026 (Expected Completion)\n\n2025 Mastercard Foundation Scholar\nRelevant courses: Statistical Inference, Machine Learning, Data Visualization, Features and Model Selection, Data Structures and Algorithms, and Data Science Workflows\n\n\n\nBachelor of Engineering in Electrical and Electronics Engineering\nFederal University of Technology, Owerri (FUTO) | Imo State, Nigeria\nOctober 2018 – September 2024\n\nBest Departmental Female Student (First Class Honours)\nAssistant Course Representative (Electronics and Computer Engineering Option)\nUndergraduate Thesis: Design And Development of An IoT-Based Theft Detection System Using Raspberry Pi"
+  },
+  {
+    "objectID": "about.html#projects",
+    "href": "about.html#projects",
+    "title": "About Me",
+    "section": "💼 Projects",
+    "text": "💼 Projects\n\nAirline Ticket Price Prediction\nDecember 2025 – Present\nMachine learning regression system to predict airline ticket prices, deployed as a containerized application.\n\nCleaned, validated, and explored a scraped airline pricing dataset (20,000 records) using Python (pandas, NumPy, Altair), identifying 7 key price drivers to support feature selection and modeling\nPrepared an end-to-end preprocessing and prediction workflow, standardizing data inputs and reducing data inconsistencies by 30% through validation and cleaning steps\nContainerized the ML workflow using Docker, enabling reproducible execution across environments and eliminating environment-specific dependency issues during setup and testing\n\n\n\nTerm Deposit Classification\nNovember 2025 – December 2025\nBinary classification system to predict customer term deposit subscriptions for targeted marketing campaigns.\n\nValidated and explored a bank marketing dataset (4,000 records) using Python, identifying 14 features strongly correlated with term-deposit subscription outcomes\nBuilt and tested reproducible analysis workflows, reducing data inconsistencies by 30% and eliminating environment-related failures through validation scripts and dependency debugging\nDelivered a Quarto report translating analytical findings into business insights, outlining targeting strategies with potential to improve campaign response rates by 10% based on feature-driven segmentation"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Me",
+    "section": "💼 Experience",
+    "text": "💼 Experience\n\nIT Technical Consultant\nMTN Nigeria Communications Plc | February 2025 – December 2025 | Hybrid\n\nTracked and analyzed delivery metrics for 3 AI-enabled customer service use cases by consolidating milestone progress, risk indicators, and status data using structured tracking Excel sheets, improving operational visibility and alignment between technical and business teams\nAnalyzed AI-enabled customer service workflows by restructuring technical documentation, which improved internal usability and contributed to 5% improvement in customer experience metrics reported by the business team\nDeveloped strategic proposals and data collection frameworks for an MTN university hackathon initiative, defining evaluation criteria, data collection plans, and success metrics aimed at engaging 50–100+ students and supporting early identification of high-potential technical talent\n\n\n\nInformation and Technology Intern\nMTN Nigeria Communications Plc | May 2023 – August 2023\n\nWorked closely with the Data as a Service (DaaS) team to understand data ingestion and delivery workflows using SQL while supporting the structuring and presentation of operational datasets to improve data usability and enable data-driven decision-making for 3 internal business teams through standardized reporting across 10+ recurring reports or dashboards\nCollaborated with testing and quality assurance teams to validate updated Nigerian Communications Commission (NCC) short codes across 8 customer service flows covering multiple mobile services, contributing to 100% functional validation prior to rollout and reducing the likelihood of customer-facing issues during regulatory updates\nCollected, analyzed, and documented outcome metrics for the MTN IT Division’s Y’ello Care Initiative (2023) by analyzing post-training survey data from 400 SMEs using Excel and summary statistics, reporting a 60% adoption rate of digital record-keeping practices (6x baseline) with 100% session completion\n\n\n\nProgram Coordinator\nZuri Team | April 2024 – September 2024 | Remote\n\nManaged and analyzed inbound customer requests and complaints across social media and email channels, categorizing issues and tracking response trends that contributed to an estimated ~20% improvement in customer satisfaction\nCleaned, validated, and analyzed datasets for 1,000+ program participants, reducing missing and duplicate records by 40% and enabling 100% accurate, on-time certificate issuance\nCollaboratively reviewed and evaluated 1,000+ applications for program coordinator roles, applying structured screening criteria to shortlist the top 3 candidates and reduced review time by 30%\n\n\n\nProgram Coordinator\nZuri Team | February 2022 – April 2023 | Remote\n\nSupported the training of 34,392+ people in front-end development, back-end development, and product design\nWorked with the technical team that tested the Zuri Team’s Learning Management System, which supported 11 mentors and 24,405 participants in the Ingressive for Good and Zuri software training\nHosted an online onboarding event for 24,405 participants that provided program details and addressed all questions to provide clarity"
+  },
+  {
+    "objectID": "about.html#technical-expertise",
+    "href": "about.html#technical-expertise",
+    "title": "About Me",
+    "section": "Technical Expertise",
+    "text": "Technical Expertise\n\nProgramming & Data Analysis\n\nLanguages: Python, R, SQL\nData Analysis: pandas, NumPy, Statistical Analysis\nVersion Control: Git, GitHub\nCloud Platforms: Microsoft Azure\n\n\n\nMachine Learning & Deployment\n\nMachine Learning: scikit-learn, model development and evaluation\nDeployment: Docker containerization\nWorkflows: End-to-end ML pipelines, reproducible analysis\n\n\n\nData Visualization & Reporting\n\nPython Libraries: Altair, Matplotlib, Seaborn\nReporting: Quarto, data-driven reports and presentations\nTools: Excel, Google Suite, Microsoft Office\n\n\n\nProfessional Skills\n\nProject Management: Technical project management, cross-functional team coordination\nCommunication: Data storytelling, stakeholder presentations, technical documentation\nLeadership: Learning platform management, team collaboration"
+  },
+  {
+    "objectID": "about.html#certifications-awards",
+    "href": "about.html#certifications-awards",
+    "title": "About Me",
+    "section": "Certifications & Awards",
+    "text": "Certifications & Awards\n\nAwards\n\nMastercard Foundation Startup Entrepreneurial Fund (SEF) | For Kaire Tribe, October 2025\n2025 Mastercard Foundation Scholar | University of British Columbia\nDean’s Class of Honour Certificate and Academic Excellence Award | 2021/2022 Session, July 2024\nMTN Foundation Science and Technology Scholar | March 2022\nBest Departmental Female Student (First Class Honours) | FUTO, 2024\nCertificate of Achievement | IT Division of MTN Nigeria, August 2023\n\n\n\nCertifications\n\nData Science Tools | Coursera, December 2025\nData Science Orientation | Coursera, January 2025\nIntroduction to Microsoft Azure Cloud Services | Coursera, August 2023"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\nWhen I’m not working with data, you can find me:\n\n📖 Reading about the latest machine learning research and data science techniques\n🎨 Creating data visualizations and building analytical projects\n🌍 Contributing to community initiatives and educational programs\n💡 Exploring innovative applications of data science in telecommunications and business"
+  },
+  {
+    "objectID": "about.html#lets-connect",
+    "href": "about.html#lets-connect",
+    "title": "About Me",
+    "section": "Let’s Connect!",
+    "text": "Let’s Connect!\nI’m always open to:\n\nCollaborating on interesting data science projects\nSpeaking at conferences and meetups\nContributing to open-source projects\nDiscussing research opportunities\nExploring career opportunities in data science\n\nFeel free to reach out via email or connect with me on LinkedIn!"
+  },
+  {
+    "objectID": "about.html#volunteering-experience",
+    "href": "about.html#volunteering-experience",
+    "title": "About Me",
+    "section": "🤝 Volunteering Experience",
+    "text": "🤝 Volunteering Experience\n\nFUTO Unilever Campus Ambassador\nUnilever Nigeria | January 2024 – November 2024 | Hybrid\n\nWorked closely with the Unilever and UNICEF teams and planned a career seminar with 3,144 students in attendance at the Federal University of Technology, Owerri\nSpearheaded a publicity volunteers’ group that created awareness in the university about the program, reaching 6,102 students who took the entrepreneurship course that was rolled out"
+  },
+  {
+    "objectID": "projects.html#academic",
+    "href": "projects.html#academic",
+    "title": "Projects",
+    "section": "🎓 Academic Projects",
+    "text": "🎓 Academic Projects\n\nIoT-Based Theft Detection System\n\nOverview\nUndergraduate thesis project: Design and development of an IoT-based theft detection system using Raspberry Pi.\nDuration: 2023 – 2024\nKey Features\n\nReal-time monitoring and alert system\nIntegration with Raspberry Pi and sensors\nAutomated notification system\nUser-friendly interface\n\nTechnical Stack\n\nHardware: Raspberry Pi\nProgramming: Python\nConcepts: IoT, Embedded Systems, Sensor Integration\n\nAcademic Recognition\n\nContributed to Best Departmental Female Student (First Class Honours) award\n\n\nDocumentation"
+  },
+  {
+    "objectID": "blog.html#topics-ill-write-about",
+    "href": "blog.html#topics-ill-write-about",
+    "title": "Blog",
+    "section": "Topics I’ll Write About",
+    "text": "Topics I’ll Write About\nBased on my experience and interests, here are the areas I’ll be covering:\n\n\n🐍 Python & R Programming\n\n\n🤖 Machine Learning\n\n\n📊 Data Analysis & Visualization\n\n\n📈 Statistical Inference\n\n\n🔍 Feature Engineering\n\n\n🐳 Docker & Containerization\n\n\n💾 SQL & Data Pipelines\n\n\n☁️ Cloud Platforms (Azure)\n\n\n📉 Model Evaluation\n\n\n🎨 Data Storytelling\n\n\n🔧 MLOps & Workflows\n\n\n📚 Best Practices"
   }
 ]

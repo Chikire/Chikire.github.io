@@ -1,0 +1,132 @@
+---
+title: "Projects"
+---
+
+<style>
+/* Remove bullet points */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+</style>
+
+::: {.projects-intro}
+Here's a collection of my data science projects demonstrating my skills in machine learning, data analysis, and software engineering. Each project showcases real-world problem-solving with Python, Docker, and modern ML workflows.
+:::
+
+---
+
+## 🤖 Machine Learning Projects {#ml-projects}
+
+### Airline Ticket Price Prediction {#airline}
+
+<img src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80" alt="Airplane in flight" style="width: 100%; max-width: 800px; height: 250px; object-fit: cover; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+
+**Overview**  
+Machine learning regression system to predict airline ticket prices, deployed as a containerized application.
+
+**Duration:** December 2025 – Present
+
+**Key Achievements**
+
+- Cleaned, validated, and explored a scraped airline pricing dataset (20,000 records) using Python (pandas, NumPy, Altair), identifying 7 key price drivers to support feature selection and modeling
+- Prepared an end-to-end preprocessing and prediction workflow, standardizing data inputs and reducing data inconsistencies by 30% through validation and cleaning steps
+- Containerized the ML workflow using Docker, enabling reproducible execution across environments and eliminating environment-specific dependency issues during setup and testing
+
+**Technical Stack**
+
+- **Languages:** Python
+- **Libraries:** pandas, NumPy, Altair, scikit-learn
+- **Deployment:** Docker
+- **Tools:** Jupyter Lab, Git
+
+**Skills Demonstrated**
+
+- Data cleaning and validation
+- Feature engineering and selection
+- Regression modeling
+- Containerization and reproducible workflows
+
+::: {.project-links}
+[GitHub Repo](#) | [Documentation](#)
+:::
+
+---
+
+### Term Deposit Classification {#term-deposit}
+
+<img src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80" alt="Business meeting and banking" style="width: 100%; max-width: 800px; height: 250px; object-fit: cover; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+
+**Overview**  
+Binary classification system to predict customer term deposit subscriptions for targeted marketing campaigns.
+
+**Duration:** November 2025 – December 2025
+
+**Key Achievements**
+
+- Validated and explored a bank marketing dataset (4,000 records) using Python, identifying 14 features strongly correlated with term-deposit subscription outcomes
+- Built and tested reproducible analysis workflows, reducing data inconsistencies by 30% and eliminating environment-related failures through validation scripts and dependency debugging
+- Delivered a Quarto report translating analytical findings into business insights, outlining targeting strategies with potential to improve campaign response rates by 10% based on feature-driven segmentation
+
+**Technical Stack**
+
+- **Languages:** Python
+- **Libraries:** pandas, NumPy, scikit-learn
+- **Reporting:** Quarto
+- **Tools:** Git, Jupyter Lab
+
+**Skills Demonstrated**
+
+- Binary classification
+- Feature correlation analysis
+- Model evaluation and validation
+- Business insight communication
+- Reproducible research workflows
+
+::: {.project-links}
+[GitHub Repo](#) | [Quarto Report](#)
+:::
+
+---
+
+## 🎓 Academic Projects {#academic}
+
+### IoT-Based Theft Detection System {#iot-theft}
+
+<img src="https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?w=800&q=80" alt="IoT connected devices and network system" style="width: 100%; max-width: 800px; height: 250px; object-fit: cover; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+
+**Overview**  
+Undergraduate thesis project: Design and development of an IoT-based theft detection system using Raspberry Pi.
+
+**Duration:** 2023 – 2024
+
+**Key Features**
+
+- Real-time monitoring and alert system
+- Integration with Raspberry Pi and sensors
+- Automated notification system
+- User-friendly interface
+
+**Technical Stack**
+
+- **Hardware:** Raspberry Pi
+- **Programming:** Python
+- **Concepts:** IoT, Embedded Systems, Sensor Integration
+
+**Academic Recognition**
+
+- Contributed to Best Departmental Female Student (First Class Honours) award
+
+::: {.project-links}
+[Documentation](#)
+:::
+
+---
+
+::: {.cta-section}
+## Interested in Collaborating?
+
+I'm always open to discussing new projects and opportunities in data science and machine learning. Feel free to reach out!
+
+[Contact Me](mailto:chikireakuibe@gmail.com){.btn .btn-primary role="button"} | [LinkedIn](https://www.linkedin.com/in/chikire-aku-ibe/){.btn .btn-secondary role="button"}
+:::

@@ -1,5 +1,209 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-<p> Hi! I am a data science graduate student at the University of British Columbia, Canada.</p>
+<style>
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.intro-heading {
+  animation: fadeInUp 1s ease-out;
+}
+
+.intro-text {
+  animation: fadeInUp 1.2s ease-out 0.3s backwards;
+}
+
+.profile-image {
+  animation: fadeIn 1.5s ease-out;
+}
+
+/* Remove bullet points */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+</style>
+
+<img src="picture/Chikire.jpg" alt="Chikire Aku-Ibe" class="profile-image" style="float: left; width: 240px; height: 240px; object-fit: cover; object-position: center 20%; border-radius: 50%; box-shadow: 0 10px 30px rgba(184, 143, 181, 0.3); margin: 0 2.5rem 2rem 0;">
+
+<div class="intro-heading">
+
+# Hi! I'm Chikire
+
+</div>
+
+<div class="intro-text">
+
+I'm an applied data scientist with experience in data analysis, operational analytics, applied machine learning projects, presenting data-driven reports, and managing cross-functional teams in telecom and digital platforms to support data-driven business decisions. With a strong foundation in statistical modeling, machine learning, and data visualization, I enjoy working on projects that have real-world impact.
+
+</div>
+
+---
+
+## 🎓 Education
+
+### Master of Data Science
+**University of British Columbia (UBC)** | Vancouver, BC, Canada  
+*August 2025 – June 2026 (Expected Completion)*
+
+- 2025 Mastercard Foundation Scholar
+- Relevant courses: Statistical Inference, Machine Learning, Data Visualization, Features and Model Selection, Data Structures and Algorithms, and Data Science Workflows
+
+### Bachelor of Engineering in Electrical and Electronics Engineering
+**Federal University of Technology, Owerri (FUTO)** | Imo State, Nigeria  
+*October 2018 – September 2024*
+
+- Best Departmental Female Student (First Class Honours)
+- Assistant Course Representative (Electronics and Computer Engineering Option)
+- Undergraduate Thesis: Design And Development of An IoT-Based Theft Detection System Using Raspberry Pi
+
+---
+
+## 💼 Projects
+
+### Airline Ticket Price Prediction
+*December 2025 – Present*
+
+Machine learning regression system to predict airline ticket prices, deployed as a containerized application.
+
+- Cleaned, validated, and explored a scraped airline pricing dataset (20,000 records) using Python (pandas, NumPy, Altair), identifying 7 key price drivers to support feature selection and modeling
+- Prepared an end-to-end preprocessing and prediction workflow, standardizing data inputs and reducing data inconsistencies by 30% through validation and cleaning steps
+- Containerized the ML workflow using Docker, enabling reproducible execution across environments and eliminating environment-specific dependency issues during setup and testing
+
+### Term Deposit Classification
+*November 2025 – December 2025*
+
+Binary classification system to predict customer term deposit subscriptions for targeted marketing campaigns.
+
+- Validated and explored a bank marketing dataset (4,000 records) using Python, identifying 14 features strongly correlated with term-deposit subscription outcomes
+- Built and tested reproducible analysis workflows, reducing data inconsistencies by 30% and eliminating environment-related failures through validation scripts and dependency debugging
+- Delivered a Quarto report translating analytical findings into business insights, outlining targeting strategies with potential to improve campaign response rates by 10% based on feature-driven segmentation
+
+---
+
+## 💼 Experience
+
+### IT Technical Consultant
+**MTN Nigeria Communications Plc** | *February 2025 – December 2025* | Hybrid
+
+- Tracked and analyzed delivery metrics for 3 AI-enabled customer service use cases by consolidating milestone progress, risk indicators, and status data using structured tracking Excel sheets, improving operational visibility and alignment between technical and business teams
+- Analyzed AI-enabled customer service workflows by restructuring technical documentation, which improved internal usability and contributed to 5% improvement in customer experience metrics reported by the business team
+- Developed strategic proposals and data collection frameworks for an MTN university hackathon initiative, defining evaluation criteria, data collection plans, and success metrics aimed at engaging 50–100+ students and supporting early identification of high-potential technical talent
+
+### Information and Technology Intern
+**MTN Nigeria Communications Plc** | *May 2023 – August 2023*
+
+- Worked closely with the Data as a Service (DaaS) team to understand data ingestion and delivery workflows using SQL while supporting the structuring and presentation of operational datasets to improve data usability and enable data-driven decision-making for 3 internal business teams through standardized reporting across 10+ recurring reports or dashboards
+- Collaborated with testing and quality assurance teams to validate updated Nigerian Communications Commission (NCC) short codes across 8 customer service flows covering multiple mobile services, contributing to 100% functional validation prior to rollout and reducing the likelihood of customer-facing issues during regulatory updates
+- Collected, analyzed, and documented outcome metrics for the MTN IT Division's Y'ello Care Initiative (2023) by analyzing post-training survey data from 400 SMEs using Excel and summary statistics, reporting a 60% adoption rate of digital record-keeping practices (6x baseline) with 100% session completion
+
+### Program Coordinator
+**Zuri Team** | *April 2024 – September 2024* | Remote
+
+- Managed and analyzed inbound customer requests and complaints across social media and email channels, categorizing issues and tracking response trends that contributed to an estimated ~20% improvement in customer satisfaction
+- Cleaned, validated, and analyzed datasets for 1,000+ program participants, reducing missing and duplicate records by 40% and enabling 100% accurate, on-time certificate issuance
+- Collaboratively reviewed and evaluated 1,000+ applications for program coordinator roles, applying structured screening criteria to shortlist the top 3 candidates and reduced review time by 30%
+
+### Program Coordinator
+**Zuri Team** | *February 2022 – April 2023* | Remote
+
+- Supported the training of 34,392+ people in front-end development, back-end development, and product design
+- Worked with the technical team that tested the Zuri Team's Learning Management System, which supported 11 mentors and 24,405 participants in the Ingressive for Good and Zuri software training
+- Hosted an online onboarding event for 24,405 participants that provided program details and addressed all questions to provide clarity
+
+---
+
+## 🤝 Volunteering Experience
+
+### FUTO Unilever Campus Ambassador
+**Unilever Nigeria** | *January 2024 – November 2024* | Hybrid
+
+- Worked closely with the Unilever and UNICEF teams and planned a career seminar with 3,144 students in attendance at the Federal University of Technology, Owerri
+- Spearheaded a publicity volunteers' group that created awareness in the university about the program, reaching 6,102 students who took the entrepreneurship course that was rolled out
+
+---
+
+## Technical Expertise
+
+### Programming & Data Analysis
+- **Languages:** Python, R, SQL
+- **Data Analysis:** pandas, NumPy, Statistical Analysis
+- **Version Control:** Git, GitHub
+- **Cloud Platforms:** Microsoft Azure
+
+### Machine Learning & Deployment
+- **Machine Learning:** scikit-learn, model development and evaluation
+- **Deployment:** Docker containerization
+- **Workflows:** End-to-end ML pipelines, reproducible analysis
+
+### Data Visualization & Reporting
+- **Python Libraries:** Altair, Matplotlib, Seaborn
+- **Reporting:** Quarto, data-driven reports and presentations
+- **Tools:** Excel, Google Suite, Microsoft Office
+
+### Professional Skills
+- **Project Management:** Technical project management, cross-functional team coordination
+- **Communication:** Data storytelling, stakeholder presentations, technical documentation
+- **Leadership:** Learning platform management, team collaboration
+
+---
+
+## Certifications & Awards
+
+### Awards
+- **Mastercard Foundation Startup Entrepreneurial Fund (SEF)** | For Kaire Tribe, October 2025
+- **2025 Mastercard Foundation Scholar** | University of British Columbia
+- **Dean's Class of Honour Certificate and Academic Excellence Award** | 2021/2022 Session, July 2024
+- **MTN Foundation Science and Technology Scholar** | March 2022
+- **Best Departmental Female Student (First Class Honours)** | FUTO, 2024
+- **Certificate of Achievement** | IT Division of MTN Nigeria, August 2023
+
+### Certifications
+- **Data Science Tools** | Coursera, December 2025
+- **Data Science Orientation** | Coursera, January 2025
+- **Introduction to Microsoft Azure Cloud Services** | Coursera, August 2023
+
+---
+
+
+
+## Interests
+
+When I'm not working with data, you can find me:
+
+- 📖 Reading about the latest machine learning research and data science techniques
+- 🎨 Creating data visualizations and building analytical projects
+- 🌍 Contributing to community initiatives and educational programs
+- 💡 Exploring innovative applications of data science in telecommunications and business
+
+---
+
+## Let's Connect!
+
+I'm always open to:
+
+- Collaborating on interesting data science projects
+- Speaking at conferences and meetups
+- Contributing to open-source projects
+- Discussing research opportunities
+- Exploring career opportunities in data science
+
+Feel free to reach out via [email](mailto:chikireakuibe@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/chikire-aku-ibe/)!
